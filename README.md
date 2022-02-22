@@ -1,4 +1,4 @@
-# Lab 1: Anton Tszhanov
+# Lab 1: Anton Tsyhanov
 
 ### De Morgan's laws
 
