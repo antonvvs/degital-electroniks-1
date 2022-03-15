@@ -29,10 +29,10 @@
    | :-: | :-: | :-: | :-: | :-: | :-- |
    | ↑ | 0 | 0 | 0 | 0 | Output did not change |
    | ↑ | 0 | 0 | 1 | 1 | Output did not change |
-   | ↑ | 0 | 1 | 0 | 0 | set output value |
-   | ↑ | 0 | 1 | 1 | 0 | set output value |
-   | ↑ | 1 | 0 | 0 | 1 | reset output value |
-   | ↑ | 1 | 0 | 1 | 1 | reset output value |
+   | ↑ | 0 | 1 | 0 | 0 | reset output value |
+   | ↑ | 0 | 1 | 1 | 0 | reset output value |
+   | ↑ | 1 | 0 | 0 | 1 | set output value |
+   | ↑ | 1 | 0 | 1 | 1 | set output value |
    | ↑ | 1 | 1 | 0 | 1 | changes value of output signal |
    | ↑ | 1 | 1 | 1 | 0 | changes value of output signal |
 
