@@ -1,4 +1,4 @@
-# Lab 5: Anton Tsyhanov
+# Lab 5: Anton Tsyhanov 
 
 ### Flip-flops
 
