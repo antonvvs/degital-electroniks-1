@@ -1,4 +1,4 @@
-# Lab 6: YOUR_FIRSTNAME LASTNAME
+# Lab 6: Tsyhanov Anton 230336
 
 ### Bidirectional counter
 
